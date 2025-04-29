@@ -149,4 +149,3 @@ The material used to train LLMs can come from a variety of sources. Sometimes, t
 
 ### Environmental concerns
 LLMs and data centers require a **lot** of energy to maintain. With the proliferation of AI, more and more energy will be required for upkeep. 
-
